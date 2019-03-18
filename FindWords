@@ -1,0 +1,14 @@
+#include <iostream>
+
+using namespace std;
+
+int main ()
+{
+	//Tugas Pemrograman Terstruktur
+	//Find Words
+	
+	//Oleh : Andhika Kurniawan  -  1817051027
+
+	
+	return 0;
+}
